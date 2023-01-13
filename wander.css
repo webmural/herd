@@ -1,11 +1,11 @@
 ::selection {
   background: indigo;
-  color: gold;
+  color: #ee1;
 }
 
 :root {
-  background: gold;
-  color: darkviolet;
+  background: #1ed;
+  color: #528;
 }
 
 :any-link {
